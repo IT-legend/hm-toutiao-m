@@ -1,13 +1,13 @@
 <template>
-  <div class="home">
-    首页模块
+  <div class="container">
+    主页
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
-  components: {}
+  name: 'home'
+
 }
 </script>
 
